@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ibrahim.
-- 👀 I’m interested in everything related to javascript.
-- 🌱 I’m currently learning all about web development.
-- 📫 You can contact me via mail: ibrahimciloglu.ic@gmail.com
+## Hi !
+
+I'm Ibrahim and I'm a self-taught Javascript developer. As a junior junior developer I am currently attending the [Codin Bootcamps Europe](https://www.coding-bootcamps.eu/).
 
 <!---
 IbrhmClgl/IbrhmClgl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
