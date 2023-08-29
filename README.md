@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibrahim.
 - 👀 I’m interested in javascript.
 - 🌱 I’m currently learning about web development.
-- 📫 How to reach me: ibrahimciloglu.ic@gmail.com
+- 📫 You can contact me via mail: ibrahimciloglu.ic@gmail.com
 
 <!---
 IbrhmClgl/IbrhmClgl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
