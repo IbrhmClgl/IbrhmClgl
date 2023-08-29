@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim.
-- 👀 I’m interested in javascript.
-- 🌱 I’m currently learning about web development.
+- 👀 I’m interested in everything related to javascript.
+- 🌱 I’m currently learning all about web development.
 - 📫 You can contact me via mail: ibrahimciloglu.ic@gmail.com
 
 <!---
