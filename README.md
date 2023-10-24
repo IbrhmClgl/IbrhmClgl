@@ -1,7 +1,7 @@
 ## Hi 👋 !
 
 ✨✨✨
-I'm Ibrahim and I'm a self-taught Javascript developer. As a junior developer I currently started my bootcamp journey at [Coding Bootcamps Europe](https://www.coding-bootcamps.eu/).
+I'm Ibrahim, a passionate Junior Javascript developer. I currently started my bootcamp journey at [Coding Bootcamps Europe](https://www.coding-bootcamps.eu/).
 ✨✨✨
 
 <!---
